@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bunnysligpers
 - 👀 I’m interested in Bussiness Intelligence
-- 🌱 I’m currently learning SQL SSRS DAX Kimba Method
+- 🌱 I’m currently learning SQL SSRS DAX Kimba Method Data Mart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me denizasatekin@gmail.com
 
